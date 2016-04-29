@@ -1,0 +1,46 @@
+.twitter-card {
+    border:#CCC 1px solid;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+}
+
+.banner {
+    background:url(background_banner.jpeg) no-repeat;
+    background-size:cover;
+    height:120px;
+    position:relative;
+    border-radius:5px 5px 0 0;
+    -webkit-border-radius:5px 5px 0 0;
+    -moz-border-radius:5px 5px 0 0;
+}
+
+.follow-button {
+    position:absolute;
+    bottom:10px;
+    right:10px;
+}
+
+.profile-image {
+    margin-top:-50px;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border:#FFF 3px solid;
+}
+
+.padding-20 {
+    padding:10px 20px 20px 20px;
+}
+
+.profile-info h3 {
+    margin:0;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.margin-top-40 {
+    margin-top:40px;
+}
