@@ -7,6 +7,13 @@
 - You will need a gradient background for the body of your document. A great resource for generating these can be found [here](http://www.colorzilla.com/gradient-editor/).
 - You may want to research the [`border-radius`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius) and [`box-shadow`](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) properties.
 - A nice box shadow generator can be found [here](http://www.cssmatic.com/box-shadow).
+- Hint: CSS gradients can be tricky on the body of the HTML. A tip to allow gradients to stretch to the height of the page is to apply the following property:
+
+```css
+html {
+	height:100%;
+}
+```
 
 ### Twitter Profile Card
 - Play with margins here. Remember that margins can also go negative.
